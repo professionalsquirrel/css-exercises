@@ -54,6 +54,10 @@ ul {
   margin: 0;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 a {
   font-size: 24px;
   text-decoration: none;
